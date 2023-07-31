@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(xl.jfif);   
+    background-size: cover;
+    background-position: center;
+    }
+
+    body {text-align: center;
+      font-family: DRagonlord;
+    }
+
+    .header {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
